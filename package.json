@@ -1,0 +1,32 @@
+{
+    "name": "misty",
+    "displayName": "Misty",
+    "description": "A VScode theme inspired by the color theme of the Mistweaver monk class in World of Warcraft.",
+    "version": "0.0.1",
+    "publisher": "florentrougier",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "vscode",
+        "theme",
+        "dark",
+        "misty",
+        "wow",
+        "warcraft",
+        "mistweaver",
+        "world of warcraft"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Misty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Misty-color-theme.json"
+            }
+        ]
+    }
+}
