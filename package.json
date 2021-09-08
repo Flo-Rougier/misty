@@ -20,6 +20,10 @@
         "mistweaver",
         "world of warcraft"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Flo-Rougier/misty"
+    },
     "contributes": {
         "themes": [
             {
