@@ -2,7 +2,7 @@
     "name": "misty",
     "displayName": "Misty",
     "description": "A VScode theme inspired by the color theme of the Mistweaver monk class in World of Warcraft.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "florentrougier",
     "engines": {
         "vscode": "^1.60.0"
